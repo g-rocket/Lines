@@ -1,1 +1,10 @@
+name: Lines
+main: net.clonecomputers.lab.lines.Lines
+version: 1.0
+commands:
+  lines:
+      description: Setup line blocks
+      usage: /lines 
+      permission: lines.command
+      permission-message: You don't have permission to use /lines
       
